@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alincio
 - 👀 I’m interested in Automation, CI/CD
-- 🌱 I’m currently learning K8s,Hashicorp TF&Vault
+- 🌱 PowerShell, AD, .NET Ecosystem
 - 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me: alincoperative@gmail.com
 
